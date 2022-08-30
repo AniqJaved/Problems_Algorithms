@@ -43,3 +43,10 @@ characters = "Bste!hetsi ogEAxpelrt x "
 document = "AlgoExpert is the Best!"
 a = generate_doc(characters,document)
 print(a)
+
+
+
+#####################################################################################################################
+##Time Complexity: O(m+n) as m is number of characters in characters string and n is number of characters in document.
+##Space Complexity: O(m+n) as m is number of characters in characters string and n is number of characters in document.
+#####################################################################################################################
