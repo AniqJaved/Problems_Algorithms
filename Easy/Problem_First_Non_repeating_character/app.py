@@ -21,6 +21,11 @@ def first_non_repeating(string):
     return "No first non repeating character found"
 
 
+###########################################################################################################
+## Time Complexity: O(n) 
+## Space COmplextiy: O(26) so O(1) as we are accepting only the small alphabets so they are 26 in total.
+###########################################################################################################
+
 
 
 
