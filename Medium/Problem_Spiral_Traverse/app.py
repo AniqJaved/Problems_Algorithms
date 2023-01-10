@@ -11,7 +11,8 @@
 ##              second will be representing the starting row, third will be representing the ending col and fourth
 ##              will be representing the ending row. Now by using these pointers we will be traversing the whole
 ##              spiral 2D lists. Once the outer shell is completed (in this case we have 1,2,3,4,5...12) we
-##              will be moving to inner shell (in this case is 13,14,15,16)
+##              will be moving to inner shell (in this case is 13,14,15,16). Remeber that in each case will be having
+##              one thing fixed wether a column or row.
 ###############################################################################################################
 
 
